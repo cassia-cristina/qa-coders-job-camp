@@ -3,7 +3,7 @@
 **Projeto final com Robot Framework**
 
 ```
-Pages: Mapeamentos de elementos
+Pages: Mapeamento de elementos
 
 Specs: Arquivo com o caso de teste: Preencher formulario com sucesso
 ```
